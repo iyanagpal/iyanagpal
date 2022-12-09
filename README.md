@@ -10,14 +10,22 @@
  
 💡**Skills**💡:
 
-- Microsoft SQL Server
-- Tableau
-- Microsoft Excel
-- Google Sheets
+- Data Management
+- Data Visualization
+- Data Cleaning
+- SQL and NoSQL
+- Python
+- Statistical Visualization
+- Microsoft Excel/ Google Sheets
+- MATLAB
 
 📚**Courses and Certifications**📚 
 
 - Google Data Analytics Certification
+- Tableau Certification
+- Data Science Math Skills
+- Introduction to Programming with MATLAB
+- Deep Learning Onramp
 
 ⚡**Projects on Tableau**⚡
 
