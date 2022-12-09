@@ -5,7 +5,7 @@
 
 - 👀 I’m addicted to Data Analysis and I love learning new skills
 - 📐 I have a Mathematics background and started transitioning into Data Analytics in 2022
-- 🌱 I self-taught Python, SQL and Tableau
+- 🌱 I self-taught Python, SQL/ NoSQL and Tableau
 - 📈 I have hands-on experience in Data Cleaning and Wrangling, Data Visualization, Data Analysis, Dashboard Design and Development
 
 💡 **Skills** 💡:
