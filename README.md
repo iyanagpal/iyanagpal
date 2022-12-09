@@ -29,7 +29,7 @@
 
 📚 **Publications** 📚 
 
-- **Review on the modelling with functional responses for interacting population dynamics**: Click [HERE](https://1drv.ms/b/s!Aqrww_h-yLoCgTmUf5S_FYKEGeJL?e=QvRIkl)
+- **Review on the modeling with functional responses for interacting population dynamics**: Click [HERE](https://1drv.ms/b/s!Aqrww_h-yLoCgTmUf5S_FYKEGeJL?e=QvRIkl)
 - **Queueing model in a bank ATM**: Click [HERE](https://1drv.ms/b/s!Aqrww_h-yLoCgTr4gcrJg_7ZTsBf?e=ghFzt1)
 
 ⚡ **Projects on Tableau** ⚡
