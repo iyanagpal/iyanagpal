@@ -40,6 +40,6 @@
 - **COVID Project**: Click [HERE](https://github.com/ThaisCooke/COVIDProject/blob/main/COVID)
 - **Halloween Candy Analysis**: Click [HERE](https://github.com/ThaisCooke/halloweencandy/blob/main/candy)
 
-### 📫 Lets Connect: 
+### 📫 Let's Connect
 [<img src="https://user-images.githubusercontent.com/22131139/147733108-1611082a-011d-43c2-a2ea-2b67da60bf63.png" height="48" width="48">](https://www.linkedin.com/in/supriyanagpal/)
 
