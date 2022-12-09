@@ -1,14 +1,14 @@
 
 ### Hi, There! <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"> I’m Supriya 
 
-✨ **About Me**✨
+✨ **About Me** ✨
 
 - 👀 I’m addicted to Data Analysis and I love learning new skills
 - 📐 I have a Mathematics background and started transitioning into Data Analytics in 2022
 - 🌱 I self-taught Python, SQL and Tableau
 - 📈 I have hands-on experience in Data Cleaning and Wrangling, Data Visualization, Data Analysis, Dashboard Design and Development
- 
-💡**Skills**💡:
+
+💡 **Skills** 💡:
 
 - Data Management
 - Data Visualization
@@ -19,7 +19,7 @@
 - Microsoft Excel/ Google Sheets
 - MATLAB
 
-📚**Courses and Certifications**📚 
+📚 **Courses and Certifications** 📚 
 
 - Google Data Analytics Certification
 - Tableau Certification
@@ -27,7 +27,7 @@
 - Introduction to Programming with MATLAB
 - Deep Learning Onramp
 
-⚡**Projects on Tableau**⚡
+⚡ **Projects on Tableau** ⚡
 
 - **Space Challenge**: Click [HERE](https://public.tableau.com/app/profile/thais.cooke/viz/SpaceMissions_16605611230430/Dashboard1)
 - **NYC_Airbnb**: Click [HERE](https://public.tableau.com/app/profile/thais.cooke/viz/NYC_airbnb_16590391722840/Story1)
@@ -36,7 +36,7 @@
 - **COVID Dashboard**: Click [HERE](https://public.tableau.com/app/profile/thais.cooke/viz/CovidDashboardProject_16450981925780/Dashboard1)
 - **Interactive Halloween Candy Tableau Dashboard**: Click [HERE](https://public.tableau.com/app/profile/thais.cooke/viz/HalloweenCandyAnalysis/Dashboard1)
  
-👩‍💻**Projects on SQL**👩‍💻
+👩‍💻 **Projects on SQL** 👩‍💻
  
 - **Cleaning Data in SQL**: Click [HERE](https://github.com/ThaisCooke/Nashville_Housing/blob/main/Data_Cleaning_SQL)
 - **Danny's Diner**: Click [HERE](https://github.com/ThaisCooke/DannysDiner/blob/main/code)
