@@ -27,6 +27,11 @@
 - Introduction to Programming with MATLAB
 - Deep Learning Onramp
 
+📚 **Publications** 📚 
+
+- **REVIEW ON THE MODELING WITH FUNCTIONAL RESPONSES FOR INTERACTING POPULATION DYNAMICS**: Click [HERE](https://1drv.ms/b/s!Aqrww_h-yLoCgTmUf5S_FYKEGeJL?e=QvRIkl)
+- **QUEUEING MODEL IN A BANK ATM**: Click [HERE](https://1drv.ms/b/s!Aqrww_h-yLoCgTr4gcrJg_7ZTsBf?e=ghFzt1)
+
 ⚡ **Projects on Tableau** ⚡
 
 - **Space Challenge**: Click [HERE](https://public.tableau.com/app/profile/thais.cooke/viz/SpaceMissions_16605611230430/Dashboard1)
