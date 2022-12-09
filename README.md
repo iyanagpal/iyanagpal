@@ -1,60 +1,37 @@
 
-
--  Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I’m Thais 
-
-<p>&nbsp;</p>
+### Hi, There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I’m Supriya 
 
 ✨ **About Me in 30 secs**✨
-
 - 👀 I’m addicted to Data Analysis and I love learning new skills
-- 💉 I have a Healthcare background and started transitioning into Data Analytics in 2021
-- 🌱 I self-taught SQL and Tableau
-- 📉 I have experience in Data Cleaning and Wrangling, Data Visualization, Data Analysis, Dashboard Design and Development
+- 💉 I have a Mathematics background and started transitioning into Data Analytics in 2022
+- 🌱 I self-taught Python, SQL and Tableau
+- 📉 I have hands-on experience in Data Cleaning and Wrangling, Data Visualization, Data Analysis, Dashboard Design and Development
+ 
+💡**Skills**💡:
 
-
-- 📫 How to find me: [LinkedIn](https://www.linkedin.com/in/thaiscooke/)
-
- 
- 
-<p>&nbsp;</p>
- 
- 💡**Skills**💡:
- 
 - Microsoft SQL Server
 - Tableau
 - Microsoft Excel
 - Google Sheets
 
+📚**Courses and Certifications**📚 
+- Google Data Analytics Certification
 
- <p>&nbsp;</p>
+⚡**Projects on Tableau**⚡
 
-
- 📚**Courses and Certifications**📚
+- **Space Challenge**: Click [HERE](https://public.tableau.com/app/profile/thais.cooke/viz/SpaceMissions_16605611230430/Dashboard1)
  
- - Google Data Analytics Certification
+- **NYC_Airbnb**: Click [HERE](https://public.tableau.com/app/profile/thais.cooke/viz/NYC_airbnb_16590391722840/Story1)
  
+- **Aibnb Seattle**: Click [HERE](https://public.tableau.com/app/profile/thais.cooke/viz/AirbnbSeattle_16587973599060/Dashboard1)
  
+- **BellaBeat Capstone Project**: Click [HERE](https://public.tableau.com/app/profile/thais.cooke/viz/BellaBeat_Capstone_Project/BellabeatFitnessAnalysis)
  
-<p>&nbsp;</p>
+- **COVID Dashboard**: Click [HERE](https://public.tableau.com/app/profile/thais.cooke/viz/CovidDashboardProject_16450981925780/Dashboard1)
  
- ⚡**Projects on Tableau**⚡
+- **Interactive Halloween Candy Tableau Dashboard**: Click [HERE](https://public.tableau.com/app/profile/thais.cooke/viz/HalloweenCandyAnalysis/Dashboard1)
  
- - **Space Challenge**: Click [HERE](https://public.tableau.com/app/profile/thais.cooke/viz/SpaceMissions_16605611230430/Dashboard1)
- 
- - **NYC_Airbnb**: Click [HERE](https://public.tableau.com/app/profile/thais.cooke/viz/NYC_airbnb_16590391722840/Story1)
- 
- - **Aibnb Seattle**: Click [HERE](https://public.tableau.com/app/profile/thais.cooke/viz/AirbnbSeattle_16587973599060/Dashboard1)
- 
- - **BellaBeat Capstone Project**: Click [HERE](https://public.tableau.com/app/profile/thais.cooke/viz/BellaBeat_Capstone_Project/BellabeatFitnessAnalysis)
- 
- - **COVID Dashboard**: Click [HERE](https://public.tableau.com/app/profile/thais.cooke/viz/CovidDashboardProject_16450981925780/Dashboard1)
- 
- - **Interactive Halloween Candy Tableau Dashboard**: Click [HERE](https://public.tableau.com/app/profile/thais.cooke/viz/HalloweenCandyAnalysis/Dashboard1)
- 
- <p>&nbsp;</p>
- 
- 
- 👩‍💻**Projects on SQL**👩‍💻
+👩‍💻**Projects on SQL**👩‍💻
  
 - **Cleaning Data in SQL**: Click [HERE](https://github.com/ThaisCooke/Nashville_Housing/blob/main/Data_Cleaning_SQL)
 
@@ -73,3 +50,6 @@
 - **COVID Project**: Click [HERE](https://github.com/ThaisCooke/COVIDProject/blob/main/COVID)
 
 - **Halloween Candy Analysis**: Click [HERE](https://github.com/ThaisCooke/halloweencandy/blob/main/candy)
+
+
+### 📫 Lets Connect: [LinkedIn](https://www.linkedin.com/in/supriyanagpal/)
