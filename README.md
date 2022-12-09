@@ -1,5 +1,5 @@
 
-### Hi, There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I’m Supriya 
+### Hi, There! <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"> I’m Supriya 
 
 ✨ **About Me in 30 secs**✨
 
@@ -40,5 +40,6 @@
 - **COVID Project**: Click [HERE](https://github.com/ThaisCooke/COVIDProject/blob/main/COVID)
 - **Halloween Candy Analysis**: Click [HERE](https://github.com/ThaisCooke/halloweencandy/blob/main/candy)
 
-### 📫 Lets Connect: [LinkedIn](https://www.linkedin.com/in/supriyanagpal/)
+### 📫 Lets Connect: 
+[<img src="https://user-images.githubusercontent.com/22131139/147733108-1611082a-011d-43c2-a2ea-2b67da60bf63.png" height="48" width="48">](https://www.linkedin.com/in/supriyanagpal/)
 
