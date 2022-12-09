@@ -1,7 +1,7 @@
 
 ### Hi, There! <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"> I’m Supriya 
 
-✨ **About Me in 30 secs**✨
+✨ **About Me**✨
 
 - 👀 I’m addicted to Data Analysis and I love learning new skills
 - 📐 I have a Mathematics background and started transitioning into Data Analytics in 2022
